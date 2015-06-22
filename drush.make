@@ -5,7 +5,7 @@
 core = 7.x
 
 api = 2
-projects[drupal][version] = "7.34"
+projects[drupal][version] = "7.38"
 
 ; modules from D6 site not found in D7
 ;projects[filefield][version] = "3.13"
