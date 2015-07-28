@@ -51,6 +51,7 @@ projects[views_responsive_grid] = "1.3"
 projects[views_slideshow] = "3.1"
 projects[webform] = "4.10"
 projects[wysiwyg] = "2.2"
+projects[node_export] = "3.0"
 
 projects[rmc_library_bootstrap][directory_name] = "rmc_library_bootstrap"
 projects[rmc_library_bootstrap][download][branch] = "master"
