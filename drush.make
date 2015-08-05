@@ -28,7 +28,7 @@ projects[features_extra] = "1.0-beta1"
 projects[imce] = "1.9"
 projects[imce_wysiwyg] = "1.0"
 
-projects[jquery_update] = "2.6"
+projects[jquery_update] = "3.0-alpha2"
 projects[js_injector] = "2.1"
 projects[libraries] = "2.2"
 projects[link] = "1.3"
