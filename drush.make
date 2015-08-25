@@ -3,7 +3,7 @@
 
 core = 7.x
 api = 2
-projects[drupal][version] = "7.38"
+projects[drupal][version] = "7.39"
 
 libraries[bootstrap][destination] = themes/bootstrap
 libraries[bootstrap][directory_name] = "bootstrap"
@@ -17,7 +17,7 @@ projects[admin_menu] = "3.0-rc5"
 projects[bootstrap] = "3.0"
 projects[block_class] = "2.1"
 projects[ckeditor] = "1.16"
-projects[ctools] = "1.7"
+projects[ctools] = "1.9"
 projects[custom_breadcrumbs] = "2.0-beta1"
 projects[date] = "2.8"
 projects[diff] = "3.2"
@@ -35,7 +35,7 @@ projects[link] = "1.3"
 projects[linkit] = "3.3"
 projects[media] = "1.4"
 projects[menu_attributes] = "1.0-rc3"
-projects[menu_block] = "2.6"
+projects[menu_block] = "2.7"
 projects[mollom] = "2.14"
 projects[multiblock] = "1.2"
 
