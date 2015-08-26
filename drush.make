@@ -38,6 +38,7 @@ projects[menu_attributes] = "1.0-rc3"
 projects[menu_block] = "2.7"
 projects[mollom] = "2.14"
 projects[multiblock] = "1.2"
+projects[multiple_node_menu] = "1.0-beta2"
 
 projects[pathauto] = "1.2"
 projects[pathologic] = "2.12"
