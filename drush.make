@@ -3,7 +3,7 @@
 
 core = 7.x
 api = 2
-projects[drupal][version] = "7.39"
+projects[drupal][version] = "7.41"
 
 libraries[bootstrap][destination] = themes/bootstrap
 libraries[bootstrap][directory_name] = "bootstrap"
@@ -28,7 +28,7 @@ projects[features_extra] = "1.0-beta1"
 projects[imce] = "1.9"
 projects[imce_wysiwyg] = "1.0"
 
-projects[jquery_update] = "3.0-alpha2"
+projects[jquery_update] = "3.0-alpha3"
 projects[js_injector] = "2.1"
 projects[libraries] = "2.2"
 projects[link] = "1.3"
@@ -50,11 +50,11 @@ projects[views] = "3.11"
 projects[views_php] = "1.0-alpha1"
 projects[views_responsive_grid] = "1.3"
 projects[views_slideshow] = "3.1"
-projects[webform] = "4.10"
+projects[webform] = "4.12"
 projects[webform_validation] = "1.10"
 projects[wysiwyg] = "2.2"
 projects[node_export] = "3.0"
-projects[uuid] = "1.0-alpha6"
+projects[uuid] = "1.0-beta1"
 projects[exclude_node_title] = "1.9"
 
 projects[rmc_library_bootstrap][directory_name] = "rmc_library_bootstrap"
