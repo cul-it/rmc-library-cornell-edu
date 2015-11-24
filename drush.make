@@ -56,6 +56,7 @@ projects[wysiwyg] = "2.2"
 projects[node_export] = "3.0"
 projects[uuid] = "1.0-beta1"
 projects[exclude_node_title] = "1.9"
+projects[site_verify] = "1.1"
 
 projects[rmc_library_bootstrap][directory_name] = "rmc_library_bootstrap"
 projects[rmc_library_bootstrap][download][branch] = "master"
