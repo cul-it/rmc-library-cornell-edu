@@ -3,7 +3,7 @@
 
 core = 7.x
 api = 2
-projects[drupal][version] = "7.41"
+projects[drupal][version] = "7.43"
 
 libraries[bootstrap][destination] = themes/bootstrap
 libraries[bootstrap][directory_name] = "bootstrap"
@@ -15,7 +15,7 @@ libraries[ckeditor][download][url] = "http://download.cksource.com/CKEditor/CKEd
 projects[admin_menu] = "3.0-rc5"
 
 projects[bootstrap] = "3.1"
-projects[block_class] = "2.1"
+projects[block_class] = "2.3"
 projects[ckeditor] = "1.16"
 projects[ctools] = "1.9"
 projects[custom_breadcrumbs] = "2.0-beta1"
