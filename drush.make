@@ -3,7 +3,7 @@
 
 core = 7.x
 api = 2
-projects[drupal][version] = "7.43"
+projects[drupal][version] = "7.44"
 
 libraries[bootstrap][destination] = themes/bootstrap
 libraries[bootstrap][directory_name] = "bootstrap"
@@ -46,7 +46,7 @@ projects[redirect] = "1.0-rc1"
 projects[strongarm] = "2.0"
 
 projects[token] = "1.6"
-projects[views] = "3.13"
+projects[views] = "3.14"
 projects[views_php] = "1.0-alpha1"
 projects[views_responsive_grid] = "1.3"
 projects[views_slideshow] = "3.1"
